@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "clustersender",
+        "uuid": 4029102,
+        "checksum": "odaf8"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "production"
+    }
+}
